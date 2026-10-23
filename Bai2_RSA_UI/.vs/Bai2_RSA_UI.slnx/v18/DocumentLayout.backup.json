@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\An_to\u00E0n_b\u1EA3o_m\u1EADt\\btap2\\Bai2_RSA_UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B99B2D-F3F0-29BE-E6E3-27AF45E6D9BB}|Bai2_RSA_UI\\Bai2_RSA_UI.csproj|d:\\an_to\u00E0n_b\u1EA3o_m\u1EADt\\btap2\\bai2_rsa_ui\\bai2_rsa_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B99B2D-F3F0-29BE-E6E3-27AF45E6D9BB}|Bai2_RSA_UI\\Bai2_RSA_UI.csproj|solutionrelative:bai2_rsa_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBB30BB-E1A2-40E2-84FE-6768CB58FEB3}|Bai2_RSA_UI\\Bai2_RSA_UI.csproj|D:\\An_to\u00E0n_b\u1EA3o_m\u1EADt\\btap2\\Bai2_RSA_UI\\bai2_rsa_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DBB30BB-E1A2-40E2-84FE-6768CB58FEB3}|Bai2_RSA_UI\\Bai2_RSA_UI.csproj|solutionrelative:bai2_rsa_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B99B2D-F3F0-29BE-E6E3-27AF45E6D9BB}|Bai2_RSA_UI\\Bai2_RSA_UI.csproj|d:\\an_to\u00E0n_b\u1EA3o_m\u1EADt\\btap2\\bai2_rsa_ui\\bai2_rsa_ui\\rsahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B99B2D-F3F0-29BE-E6E3-27AF45E6D9BB}|Bai2_RSA_UI\\Bai2_RSA_UI.csproj|solutionrelative:bai2_rsa_ui\\rsahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\An_to\u00E0n_b\u1EA3o_m\u1EADt\\btap2\\Bai2_RSA_UI\\Bai2_RSA_UI\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai2_RSA_UI\\Form1.cs",
+              "ToolTip": "D:\\An_to\u00E0n_b\u1EA3o_m\u1EADt\\btap2\\Bai2_RSA_UI\\Bai2_RSA_UI\\Form1.cs",
+              "RelativeToolTip": "Bai2_RSA_UI\\Form1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T02:29:42.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RsaHelper.cs",
+              "DocumentMoniker": "D:\\An_to\u00E0n_b\u1EA3o_m\u1EADt\\btap2\\Bai2_RSA_UI\\Bai2_RSA_UI\\RsaHelper.cs",
+              "RelativeDocumentMoniker": "Bai2_RSA_UI\\RsaHelper.cs",
+              "ToolTip": "D:\\An_to\u00E0n_b\u1EA3o_m\u1EADt\\btap2\\Bai2_RSA_UI\\Bai2_RSA_UI\\RsaHelper.cs",
+              "RelativeToolTip": "Bai2_RSA_UI\\RsaHelper.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T02:28:45.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\An_to\u00E0n_b\u1EA3o_m\u1EADt\\btap2\\Bai2_RSA_UI\\Bai2_RSA_UI\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai2_RSA_UI\\Form1.cs",
+              "ToolTip": "D:\\An_to\u00E0n_b\u1EA3o_m\u1EADt\\btap2\\Bai2_RSA_UI\\Bai2_RSA_UI\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai2_RSA_UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T02:28:14.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
